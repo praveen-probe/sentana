@@ -1,0 +1,10 @@
+# Core app
+streamlit>=1.32
+# AI model (Hugging Face + PyTorch, CPU inference)
+transformers>=4.38
+torch>=2.2
+tokenizers>=0.15
+huggingface-hub>=0.20
+safetensors>=0.4
+# Testing
+pytest>=8.0
